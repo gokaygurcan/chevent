@@ -1,14 +1,6 @@
 {
 	"item": [
 		{
-			"name": "Test",
-			"date": "19.10.2015",
-			"free": false,
-			"image": "https://pbs.twimg.com/profile_images/615146554748342272/KGFXwX4O.jpg",
-			"url": "http://www.meetup.com/IstanbulPHP/events/225339841/"
-		},
-
-		{
 			"name": "İstanbul PHP Meetup #011",
 			"date": "17.10.2015",
 			"free": true,
