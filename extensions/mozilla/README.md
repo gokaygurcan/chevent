@@ -1,2 +1,0 @@
-#Chevent
-Etkinlik takvimi
