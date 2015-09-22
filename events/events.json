@@ -7,6 +7,7 @@
 			"image": "https://pbs.twimg.com/profile_images/615146554748342272/KGFXwX4O.jpg",
 			"url": "http://www.meetup.com/IstanbulPHP/events/225339841/",
 			"description" : "Ekim ayını WordPress'e ayırdık! 3. Cumartesi Bahçeşehir Üniversitesi'nde WordPress konuşuyoruz!",
+			"quota" : 100,
 			"speakers" : [
 				{
 					"name"    : "Mustafa Uysal",
@@ -37,6 +38,7 @@
 			"image": "https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12027587_886854924723757_3763813962905755248_n.jpg?oh=2e21d54abb41cd53093ea2b631639129&oe=56964DFB",
 			"url": "https://www.facebook.com/events/1471597949813075/",
 			"description" : "Arayüz geliştirmede hayatımıza Node'un ve paket'lerinin girmesiyle birlikte bir yandan zenginleşirken bir yandan da işlerin karmaşıklaşmaya başladığı bu günlerde en çok ihtiyacımız olan şey, yazdığımız kodu modülerleştirmek; ve daha da önemlisi, bu modülleri yönetebilimek.",
+			"quota" : 100,
 			"speakers" : [
 				{
 					"name"    : "Burak Can",
