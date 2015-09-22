@@ -1,6 +1,21 @@
 {
 	"items": [
 		{
+			"name": "Jstanbul Meetup #004",
+			"date": "01.10.2015",
+			"free": true,
+			"image": "https://scontent-fra3-1.xx.fbcdn.net/hphotos-ash2/t31.0-8/1149763_434140820033966_2059044392_o.jpg",
+			"url": "http://www.meetup.com/jstanbul/events/225473636/",
+			"description" : "Başta WebMagazin etkinlikleri olmak üzere yeni teknolojilerin eğitimine katkı sağlayan Bahçeşehir Üniversitesi'nin desteği ile Almanya'da büyük projelere imza atan 9Elements'le birlikte güzel bir akşam etkinliği düzenliyoruz. ",
+			"quota" : 100,
+			"speakers" : [
+				{
+					"name"    : "Sebastian Deutsch",
+					"subject" : "Redux and Advanced ReactJS Patterns"
+				}
+			]
+		},
+		{
 			"name": "İstanbul PHP Meetup #011",
 			"date": "17.10.2015",
 			"free": true,
