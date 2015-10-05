@@ -2,6 +2,8 @@
 
 Chevent bir gece projesi olarak, Türkiyedeki web, yazılım etkinliklerini tarayıcıdan takip etmeyi kolaylaştırması için oluşturulmuştur.
 
+![Chevent](https://raw.githubusercontent.com/codeui/chevent/master/screenshot.png)
+
 ## Etkinlik Eklemek
 
 - Bu repoyu forklayın
