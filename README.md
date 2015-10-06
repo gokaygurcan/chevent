@@ -23,3 +23,13 @@ Chevent bir gece projesi olarak, Türkiyedeki web, yazılım etkinliklerini tara
 - [Chrome & Opera Ext.](https://github.com/codeui/chevent-chrome)
 - [Mozilla Ext.](https://github.com/codeui/chevent-mozilla)
 - [CLI](https://github.com/codeui/chevent-js-cli)
+
+## Katkıda Bulunanlar
+
+* Eser Özvataf
+* Coşku Demirhan
+* Samet Aydemir
+* Önder Özcan
+* Arda Kılıçdağı
+* Vedat Mahir Yılmaz
+* Rameş Aliyev
