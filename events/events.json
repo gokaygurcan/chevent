@@ -1,6 +1,24 @@
 {
 	"items": [
 		{
+			"name": "Veribilimi İstanbul #008",
+			"date": "09.10.2015",
+			"free": true,
+			"image": "http://dl.dropbox.com/u/103580364/img/vbi_08.jpg",
+			"url": "https://www.eventbrite.com/e/veri-bilimi-istanbul-bulusma-8-tickets-18938308992",
+			"description" : "kaggle tecrübeleri sohbeti @kayalon1 ve 1-2 veri problemi için analiz ve çözüm tasarım çalışması",
+			"quota" : 60,
+			"speakers" : [
+				{
+					"name"    : "Öncü Kayalar",
+					"subject" : "Kaggle 101: Deneyimler, Araçlar ve Öneriler"
+				},
+				{
+					"name"    : "Grup Çalışması",
+					"subject" : "Veri biliminin kapsamına giren birkaç problem için, moderasyonlu, doğaçlama bir grup çalıştayı yapılacaktır. Çalıştayın temel amacı bir ya da daha fazla problem için kavramsal seviyede bir ihtiyaç analizi yapılması ve tespit edilen problemleri çözecek ürünün temel bileşenlerinin ortaya çıkartılmasıdır."
+				}
+			]
+		}{
 			"name": "Jstanbul Meetup #004",
 			"date": "01.10.2015",
 			"free": true,
