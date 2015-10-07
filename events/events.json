@@ -1,143 +1,186 @@
 {
-	"items": [
-		{
-			"name": "Veribilimi İstanbul #008",
-			"date": "09.10.2015",
-			"free": true,
-			"image": "http://dl.dropbox.com/u/103580364/img/vbi_08.jpg",
-			"url": "https://www.eventbrite.com/e/veri-bilimi-istanbul-bulusma-8-tickets-18938308992",
-			"description" : "kaggle tecrübeleri sohbeti @kayalon1 ve 1-2 veri problemi için analiz ve çözüm tasarım çalışması",
-			"quota" : 60,
-			"speakers" : [
-				{
-					"name"    : "Öncü Kayalar",
-					"subject" : "Kaggle 101: Deneyimler, Araçlar ve Öneriler"
-				},
-				{
-					"name"    : "Grup Çalışması",
-					"subject" : "Veri biliminin kapsamına giren birkaç problem için, moderasyonlu, doğaçlama bir grup çalıştayı yapılacaktır. Çalıştayın temel amacı bir ya da daha fazla problem için kavramsal seviyede bir ihtiyaç analizi yapılması ve tespit edilen problemleri çözecek ürünün temel bileşenlerinin ortaya çıkartılmasıdır."
-				}
-			]
-		},
-		{
-			"name": "Jstanbul Meetup #004",
-			"date": "01.10.2015",
-			"free": true,
-			"image": "https://pbs.twimg.com/profile_images/2283521236/4h9cx6jkglig79kts9gu.png",
-			"url": "http://www.meetup.com/jstanbul/events/225473636/",
-			"description" : "Başta WebMagazin etkinlikleri olmak üzere yeni teknolojilerin eğitimine katkı sağlayan Bahçeşehir Üniversitesi'nin desteği ile Almanya'da büyük projelere imza atan 9Elements'le birlikte güzel bir akşam etkinliği düzenliyoruz. ",
-			"quota" : 100,
-			"speakers" : [
-				{
-					"name"    : "Sebastian Deutsch",
-					"subject" : "Redux and Advanced ReactJS Patterns"
-				}
-			]
-		},
-		{
-			"name": "İstanbul PHP Meetup #011",
-			"date": "17.10.2015",
-			"free": true,
-			"image": "https://pbs.twimg.com/profile_images/615146554748342272/KGFXwX4O.jpg",
-			"url": "http://www.meetup.com/IstanbulPHP/events/225339841/",
-			"description" : "Ekim ayını WordPress'e ayırdık! 3. Cumartesi Bahçeşehir Üniversitesi'nde WordPress konuşuyoruz!",
-			"quota" : 100,
-			"speakers" : [
-				{
-					"name"    : "Mustafa Uysal",
-					"subject" : "WordPress Plugin Development"
-				},
-				{
-					"name"    : "Emre Erkan",
-					"subject" : "WordPress Sürüm Numarası Paranoyası"
-				},
-				{
-					"name"    : "Hüseyin Berberoğlu",
-					"subject" : "WordPress ile Büyük Ölçekli Siteler"
-				},
-				{
-					"name"    : "Mehmet İnce",
-					"subject" : "WordPress Security"
-				},
-				{
-					"name"    : "Doruk Fişek",
-					"subject" : "WordPress Sunucu Güvenliği"
-				}
-			]
-		},
-		{
-			"name": "Webpack ile Akıllı Front-end",
-			"date": "17.09.2015",
-			"free": true,
-			"image": "https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12027587_886854924723757_3763813962905755248_n.jpg?oh=2e21d54abb41cd53093ea2b631639129&oe=56964DFB",
-			"url": "https://www.facebook.com/events/1471597949813075/",
-			"description" : "Arayüz geliştirmede hayatımıza Node'un ve paket'lerinin girmesiyle birlikte bir yandan zenginleşirken bir yandan da işlerin karmaşıklaşmaya başladığı bu günlerde en çok ihtiyacımız olan şey, yazdığımız kodu modülerleştirmek; ve daha da önemlisi, bu modülleri yönetebilimek.",
-			"quota" : 100,
-			"speakers" : [
-				{
-					"name"    : "Burak Can",
-					"subject" : "Webpack ile Akıllı Front-end"
-				}
-			]
-		},
-		{
-			"name": "IoTxTR #10 Raspberry Pi",
-			"date": "14.10.2015",
-			"free": true,
-			"image": "https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F15886915%252F139930043394%252F1%252Foriginal.jpg%3Frect%3D0%252C18%252C620%252C310%26s%3D0d7d6915e59e7d83e53c8c745d90e19d?h=150&w=300&s=637220b5e858a9d276a306bc004b8f8f",
-			"url": "http://www.eventbrite.com/e/iotxtr-10-raspberry-pi-bilgisayarnz-cebinizde-tasyn-tickets-18920875849?aff=ebrowse",
-			"description" : "IoT inovasyonunda önemli yeri olan Raspberry Pi'ı IoTxTR Topluluğumuza tanıtmak üzere, 10. etkinliğimizde SAMM Teknoloji Raspberry Pi Ürün Müdürü Ramazan Subaşi konuğumuz olacak.",
-			"quota" : 100
-		},
-		{
-			"name": "WTK İzmir 2015",
-			"date": "14.10.2015",
-			"free": true,
-			"image": "http://www.wtkizmir.com/assets/img/wtk2015-web-and-mobile.png",
-			"url": "http://www.wtkizmir.com",
-			"description" : "Atölye15 olarak İzmir’de bir ilki gerçekleştirdiğimiz WTK 2014’den sonra bu sene WTK 2015 ile karşınızdayız. Yine hep beraber gerçekleştireceğimiz web ve mobil teknolojileri ile ilgili ilham verici konuşmalara hazırlanıyoruz.",
-			"quota" : 300,
-			"speakers" : [
-				{
-					"name"    : "Burak Yiğit Kaya"
-				},
-				{
-					"name"    : "Murat Yatağan"
-				},
-				{
-					"name"    : "Oktay Elipek"
-				},
-				{
-					"name"    : "Umut Gökbayrak"
-				},
-				{
-					"name"    : "Hüseyin Mert"
-				},
-				{
-					"name"    : "Kıvanç Erten"
-				},
-				{
-					"name"    : "Okan Alper"
-				},
-				{
-					"name"    : "İsmail Arslan"
-				},
-				{
-					"name"    : "Burak Can"
-				},
-				{
-					"name"    : "Mehmet Kasap"
-				}
-			]
-		},
-		{
-			"name": "Devfest Ankara '15",
-			"date": "14.11.2015",
-			"free": true,
-			"image": "https://lh3.googleusercontent.com/-JURYt8eYGaM/AAAAAAAAAAI/AAAAAAAAAAA/QwAQNo6nsaE/photo.jpg",
-			"url": "http://www.eventbrite.com/e/devfest-ankara-15-tickets-18899181962?aff=ebrowse",
-			"description" : "DevFestler, Google tarafından yazılım geliştiricilerini bir araya getirmek üzere her yıl düzenlenen konferanslar dizisidir. Google, 2011’den itibaren bu konferansların organizasyonunu GDG’lere (Google Developer Group) bırakmıştı.",
-			"quota" : 100
-		}
-	]
+   "items":[
+      {
+         "name":"Açık Kaynak Günleri",
+         "date":"11.10.2015",
+         "free":true,
+         "image":"https://pbs.twimg.com/profile_images/638406605181075456/Bnjvq1r0_400x400.jpg",
+         "url":"http://acikkaynakgunleri.org/",
+         "description":"Açık Kaynak Günleri 2015 Etkinliğimizde; Seminerler, Capture The Flag Yartışması, Atölye Uygulamaları ve Oyun Turnuvası Sizi Bekliyor.",
+         "quota":300,
+         "speakers":[
+            {
+               "name":"Ümit DERELİER",
+               "subject":"Pardus’un Dünü, Bugünü ve Geleceği"
+            },
+            {
+               "name":"Muhammet DİLMAÇ ve Hakan YILDIZ",
+               "subject":"Pisi Linux Dağıtımı ve Projeleri"
+            },
+            {
+               "name":"Doruk FİŞEK",
+               "subject":"MongoDB Servisinin Yönetimi ve Ölçeklenmesi"
+            },
+            {
+               "name":"M.Atıf CEYLAN",
+               "subject":"En Güçlü Özellikleri ile PostgreSQL Veritabanı"
+            },
+            {
+               "name":"Gürhan ŞÜKÜROĞLU",
+               "subject":"Tasarım, Animasyon ve 3 Boyutlu Baskı Alanında Kullanılan Açık Kaynak Kodlu Yazılımlar"
+            },
+            {
+               "name":"Selçuk KİRAZ",
+               "subject":"Frontend ve Google I/O Material Design"
+            },
+            {
+               "name":"Üstün ÖZGÜR",
+               "subject":"Devlerin Omuzlarında Yükselmek ya da Kaynak Kod Nasıl Okunur?"
+            },
+            {
+               "name":"Özgür Adem IŞIKLI",
+               "subject":"Neden Paketlere İhtiyacımız Var? Dillere Göre Paket/Bağımlılık Yöneticileri"
+            }
+         ]
+      },
+      {
+         "name":"Veribilimi İstanbul #008",
+         "date":"09.10.2015",
+         "free":true,
+         "image":"http://dl.dropbox.com/u/103580364/img/vbi_08.jpg",
+         "url":"https://www.eventbrite.com/e/veri-bilimi-istanbul-bulusma-8-tickets-18938308992",
+         "description":"kaggle tecrübeleri sohbeti @kayalon1 ve 1-2 veri problemi için analiz ve çözüm tasarım çalışması",
+         "quota":60,
+         "speakers":[
+            {
+               "name":"Öncü Kayalar",
+               "subject":"Kaggle 101: Deneyimler, Araçlar ve Öneriler"
+            },
+            {
+               "name":"Grup Çalışması",
+               "subject":"Veri biliminin kapsamına giren birkaç problem için, moderasyonlu, doğaçlama bir grup çalıştayı yapılacaktır. Çalıştayın temel amacı bir ya da daha fazla problem için kavramsal seviyede bir ihtiyaç analizi yapılması ve tespit edilen problemleri çözecek ürünün temel bileşenlerinin ortaya çıkartılmasıdır."
+            }
+         ]
+      },
+      {
+         "name":"Jstanbul Meetup #004",
+         "date":"01.10.2015",
+         "free":true,
+         "image":"https://pbs.twimg.com/profile_images/2283521236/4h9cx6jkglig79kts9gu.png",
+         "url":"http://www.meetup.com/jstanbul/events/225473636/",
+         "description":"Başta WebMagazin etkinlikleri olmak üzere yeni teknolojilerin eğitimine katkı sağlayan Bahçeşehir Üniversitesi'nin desteği ile Almanya'da büyük projelere imza atan 9Elements'le birlikte güzel bir akşam etkinliği düzenliyoruz. ",
+         "quota":100,
+         "speakers":[
+            {
+               "name":"Sebastian Deutsch",
+               "subject":"Redux and Advanced ReactJS Patterns"
+            }
+         ]
+      },
+      {
+         "name":"İstanbul PHP Meetup #011",
+         "date":"17.10.2015",
+         "free":true,
+         "image":"https://pbs.twimg.com/profile_images/615146554748342272/KGFXwX4O.jpg",
+         "url":"http://www.meetup.com/IstanbulPHP/events/225339841/",
+         "description":"Ekim ayını WordPress'e ayırdık! 3. Cumartesi Bahçeşehir Üniversitesi'nde WordPress konuşuyoruz!",
+         "quota":100,
+         "speakers":[
+            {
+               "name":"Mustafa Uysal",
+               "subject":"WordPress Plugin Development"
+            },
+            {
+               "name":"Emre Erkan",
+               "subject":"WordPress Sürüm Numarası Paranoyası"
+            },
+            {
+               "name":"Hüseyin Berberoğlu",
+               "subject":"WordPress ile Büyük Ölçekli Siteler"
+            },
+            {
+               "name":"Mehmet İnce",
+               "subject":"WordPress Security"
+            },
+            {
+               "name":"Doruk Fişek",
+               "subject":"WordPress Sunucu Güvenliği"
+            }
+         ]
+      },
+      {
+         "name":"Webpack ile Akıllı Front-end",
+         "date":"17.09.2015",
+         "free":true,
+         "image":"https://scontent-fra3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12027587_886854924723757_3763813962905755248_n.jpg?oh=2e21d54abb41cd53093ea2b631639129&oe=56964DFB",
+         "url":"https://www.facebook.com/events/1471597949813075/",
+         "description":"Arayüz geliştirmede hayatımıza Node'un ve paket'lerinin girmesiyle birlikte bir yandan zenginleşirken bir yandan da işlerin karmaşıklaşmaya başladığı bu günlerde en çok ihtiyacımız olan şey, yazdığımız kodu modülerleştirmek; ve daha da önemlisi, bu modülleri yönetebilimek.",
+         "quota":100,
+         "speakers":[
+            {
+               "name":"Burak Can",
+               "subject":"Webpack ile Akıllı Front-end"
+            }
+         ]
+      },
+      {
+         "name":"IoTxTR #10 Raspberry Pi",
+         "date":"14.10.2015",
+         "free":true,
+         "image":"https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F15886915%252F139930043394%252F1%252Foriginal.jpg%3Frect%3D0%252C18%252C620%252C310%26s%3D0d7d6915e59e7d83e53c8c745d90e19d?h=150&w=300&s=637220b5e858a9d276a306bc004b8f8f",
+         "url":"http://www.eventbrite.com/e/iotxtr-10-raspberry-pi-bilgisayarnz-cebinizde-tasyn-tickets-18920875849?aff=ebrowse",
+         "description":"IoT inovasyonunda önemli yeri olan Raspberry Pi'ı IoTxTR Topluluğumuza tanıtmak üzere, 10. etkinliğimizde SAMM Teknoloji Raspberry Pi Ürün Müdürü Ramazan Subaşi konuğumuz olacak.",
+         "quota":100
+      },
+      {
+         "name":"WTK İzmir 2015",
+         "date":"14.10.2015",
+         "free":true,
+         "image":"http://www.wtkizmir.com/assets/img/wtk2015-web-and-mobile.png",
+         "url":"http://www.wtkizmir.com",
+         "description":"Atölye15 olarak İzmir’de bir ilki gerçekleştirdiğimiz WTK 2014’den sonra bu sene WTK 2015 ile karşınızdayız. Yine hep beraber gerçekleştireceğimiz web ve mobil teknolojileri ile ilgili ilham verici konuşmalara hazırlanıyoruz.",
+         "quota":300,
+         "speakers":[
+            {
+               "name":"Burak Yiğit Kaya"
+            },
+            {
+               "name":"Murat Yatağan"
+            },
+            {
+               "name":"Oktay Elipek"
+            },
+            {
+               "name":"Umut Gökbayrak"
+            },
+            {
+               "name":"Hüseyin Mert"
+            },
+            {
+               "name":"Kıvanç Erten"
+            },
+            {
+               "name":"Okan Alper"
+            },
+            {
+               "name":"İsmail Arslan"
+            },
+            {
+               "name":"Burak Can"
+            },
+            {
+               "name":"Mehmet Kasap"
+            }
+         ]
+      },
+      {
+         "name":"Devfest Ankara '15",
+         "date":"14.11.2015",
+         "free":true,
+         "image":"https://lh3.googleusercontent.com/-JURYt8eYGaM/AAAAAAAAAAI/AAAAAAAAAAA/QwAQNo6nsaE/photo.jpg",
+         "url":"http://www.eventbrite.com/e/devfest-ankara-15-tickets-18899181962?aff=ebrowse",
+         "description":"DevFestler, Google tarafından yazılım geliştiricilerini bir araya getirmek üzere her yıl düzenlenen konferanslar dizisidir. Google, 2011’den itibaren bu konferansların organizasyonunu GDG’lere (Google Developer Group) bırakmıştı.",
+         "quota":100
+      }
+   ]
 }
