@@ -33,3 +33,4 @@ Chevent bir gece projesi olarak, Türkiyedeki web, yazılım etkinliklerini tara
 * Arda Kılıçdağı
 * Vedat Mahir Yılmaz
 * Rameş Aliyev
+* Gökhan Karadaş
