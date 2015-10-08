@@ -1,6 +1,21 @@
 {
    "items":[
       {
+         "name":"Developer Talks '15/10",
+         "date":"22.10.2015",
+         "free":true,
+         "image":"https://www.mediafire.com/convkey/5705/8ltj8vd5l1f84u7zg.jpg?size_id=5",
+         "url":"http://plusclouds.events/",
+         "description":"İçeriğini katılımcıların belirlediği, geliştiriciler için paylaşım platformuna sizi de bekliyoruz.",
+         "quota":30,
+         "speakers":[
+            {
+               "name":"Bu etkinlikte konuşmacı Siz'siniz",
+               "subject":"PlusClouds.Events etkinliği Developer Talks'da geliştiriciler toplanıyor. Katılımcılar tarafından belirlenecek konular üzerine konuşulurken, bağlantılar kuvvetlendiriliyor, fikir ve proje paylaşımı yapılıyor."
+            }
+         ]
+      },
+      {
          "name":"Istanbul Mini Maker Faire",
          "date":"10.10.2015",
          "free":true,
