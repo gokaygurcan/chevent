@@ -185,8 +185,8 @@
          "name":"Devfest Ankara '15",
          "date":"14.11.2015",
          "free":true,
-         "image":"https://lh3.googleusercontent.com/-JURYt8eYGaM/AAAAAAAAAAI/AAAAAAAAAAA/QwAQNo6nsaE/photo.jpg",
-         "url":"http://www.eventbrite.com/e/devfest-ankara-15-tickets-18899181962?aff=ebrowse",
+         "image":"http://mertsimsek.net/files/devfest_ankara.jpg",
+         "url":"http://devfest.gdgankara.org",
          "description":"DevFestler, Google tarafından yazılım geliştiricilerini bir araya getirmek üzere her yıl düzenlenen konferanslar dizisidir. Google, 2011’den itibaren bu konferansların organizasyonunu GDG’lere (Google Developer Group) bırakmıştı.",
          "quota":100
       }
