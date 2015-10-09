@@ -204,6 +204,15 @@
          "url":"http://devfest.gdgankara.org",
          "description":"DevFestler, Google tarafından yazılım geliştiricilerini bir araya getirmek üzere her yıl düzenlenen konferanslar dizisidir. Google, 2011’den itibaren bu konferansların organizasyonunu GDG’lere (Google Developer Group) bırakmıştı.",
          "quota":100
+      },
+      {
+         "name":"Envato Konya Meetup",
+         "date":"21.11.2015",
+         "free":true,
+         "image":"https://a-nvite.global.ssl.fastly.net/~public/themes/communityEnvato/envato_default.jpg",
+         "url":"https://nvite.com/EnvatoKonya/dbc5",
+         "description":"Envato hakkında buluşup konuşup tartışmak için bir toplantı. Ayrıca envato rozetleri hediye!",
+         "quota":50
       }
    ]
 }
