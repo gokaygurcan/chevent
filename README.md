@@ -29,6 +29,7 @@ Chevent bir gece projesi olarak, Türkiyedeki web, yazılım etkinliklerini tara
 * Eser Özvataf
 * Coşku Demirhan
 * Samet Aydemir
+* Enes Erdoğan
 * Önder Özcan
 * Arda Kılıçdağı
 * Vedat Mahir Yılmaz
