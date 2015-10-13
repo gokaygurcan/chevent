@@ -213,6 +213,15 @@
          "url":"https://nvite.com/EnvatoKonya/dbc5",
          "description":"Envato hakkında buluşup konuşup tartışmak için bir toplantı. Ayrıca envato rozetleri hediye!",
          "quota":50
+      },
+      {
+         "name": "4. Django buluşması - Asenkron konular",
+         "date": "17.10.2015",
+         "free": true,
+         "url": "http://www.meetup.com/djangoist/events/225944411/",
+         "image": "http://photos1.meetupstatic.com/photos/event/d/b/b/global_436623515.jpeg",
+         "quata": 300,
+         "description": "Asenkron işler ve çözümleri üzerine bilgi paylaşımı ve tartışma için bir toplantı."
       }
    ]
 }
