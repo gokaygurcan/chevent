@@ -1,6 +1,15 @@
 {
    "items":[
       {
+         "name":"İstanbul Hackerspace GNU/Linux Eğitimi",
+         "date":"17.10.2015",
+         "free":true,
+         "image":"http://yazilimozgurlugugunu.org.tr/2013/wp-content/uploads/2013/09/istanbulhs.png",
+         "url":"https://istanbulhs.org/wiki/blog/gnu-linux-egitimi/",
+         "description":"Yeni mekandaki ilk etkinlik başlıktan da anlaşılacağı üzere GNU/Linux Eğitimi olacak Etkinliği, (daha önce yaptıklarımızdan farklı olarak) kapsamlı ve günlere bölünmüş biçimde yapacağız.",
+         "quota":50
+      },
+      {
          "name":"Developer Talks '15/10",
          "date":"22.10.2015",
          "free":true,
