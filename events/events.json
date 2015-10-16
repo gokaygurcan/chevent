@@ -1,6 +1,15 @@
 {
    "items":[
       {
+         "name":"Garanti Hackathon",
+         "date":"11.11.2015",
+         "free":true,
+         "image":"https://assets.garanti.com.tr/assets/img/social/garanti-logo.png",
+         "url":"https://hackathon.garanti.com.tr/",
+         "description":"Eşsiz bir deneyimle 36 saat içinde fikrinizi ürüne dönüştürün büyük ödülü kazanın!",
+         "quota":50
+      },
+      {
          "name":"ING Hackathon",
          "date":"06.11.2015",
          "free":true,
