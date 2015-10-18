@@ -1,6 +1,14 @@
 {
    "items":[
       {
+         "name":"DevFest Istanbul 2015",
+         "date":"29.11.2015",
+         "free":true,
+         "image":"http://www.asianscientist.com/wp-content/uploads/2011/09/Google-DevFest-2011-Comes-To-Asia.jpg",
+         "url":"http://devfesttr.com/",
+         "quota":50
+      },
+      {
          "name":"Garanti Hackathon",
          "date":"11.11.2015",
          "free":true,
