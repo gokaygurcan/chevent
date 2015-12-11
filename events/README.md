@@ -1,11 +1,31 @@
 Etkinlik Eklemek
 ================
 
-- Bu repoyu forklayın
+- Bu repository'yi forklayın
 - events.json dosyasına etkinliği ekleyin
-- - **`name`** - Etkinlik ismi
-- - **`date`** - Etkinliğin gerçekleşeceği tarih gg.aa.yyyy
-- - **`free`** - Etkinlik ücretsiz mi? Ücretsiz ise true, değilse false girilmelidir
-- - **`image`** - Etkinliğin görseli
-- - **`url`** - Kayıt ve detaylı bilgilerin bulunduğu link
-- ve pull request gönderin :)
+
+```javascript
+{
+  "name": "",        // (String)  (Zorunlu)   Etkinlik ismi
+  "date": "",        // (String)  (Zorunlu)   Etkinliğin gerçekleşeceği tarih (gg.aa.yyyy)
+  "free": true,      // (Boolean) (Zorunlu)   Etkinlik ücretsiz ise `true`, değilse `false` girin
+  "image": "",       // (String)  (Zorunlu)   Etkinliğin görseli
+  "url": "",         // (String)  (Zorunlu)   Kayıt ve detaylı bilgilerin bulunduğu link
+  "description": "", // (String)  (Zorunlu)   Etkinlik hakkında birkaç cümleyi geçmeyecek açıklama
+  "quota": "",       // (Number)  (Opsiyonel) Etkinlikte katılımcı sınırı var mı? Varsa kaç kişi?
+  "speakers": [      // (Array)   (Opsiyonel) Konuşmacı listesi ve konu başlıkları
+    {
+      "name": "",    // (String)  (Zorunlu)   Konuşmacının ismi
+      "subject": "", // (String)  (Opsiyonel) Konu başlığı
+    },
+    ...
+  ],
+  "location": {      // (Object)  (Opsiyonel) Etkinliğin yapılacağı yere ait konum bilgisi
+    "latitude": 0.0  // (Number)  (Zorunlu)   Enlem
+    "longitude": 0.0 // (Number)  (Zorunlu)   Boylam
+  }
+},
+...
+```
+
+- Pull request gönderin :)
